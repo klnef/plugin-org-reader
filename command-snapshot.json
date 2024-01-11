@@ -1,0 +1,10 @@
+[
+  {
+    "command": "hello:world",
+    "plugin": "@salesforce/plugin-org-reader",
+    "flags": ["json", "name"],
+    "alias": [],
+    "flagChars": ["n"],
+    "flagAliases": []
+  }
+]
